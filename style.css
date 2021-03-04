@@ -1,0 +1,79 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  
+  h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+  }
+  
+  h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+  }
+  .bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 200px;
+  }
+  .hello
+  {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+  }
+  .info1
+  {
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #1a5c5c;
+    font-size: 30px;
+  }
+  .profilepic
+  {
+    margin-top: 80px;
+    height: 200px;
+    width: 200px;
+  }
+  .myskills
+  {
+    
+      width: 20%;
+      margin: 10px auto 100px auto;
+      text-align: center;
+  }
+  .myskills
+  {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .bottom-container
+  {
+    background-color: aqua;
+  }
+  .footer-link
+  {
+    margin-top: 10px;
+    padding: 10px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px auto 10px auto;
+  }
+  .copyright {
+    color: #051616;
+    font-size:15px;
+    padding: 20px 0;
+    font-family: monospace;
+  }
